@@ -1,2 +1,7 @@
-# app-dev
-My first repository
+## **List of my Favorite Movies**
+
+- *Oppenheimer*
+- *Suzume*
+- *The Nun*
+- *Insidious*
+- *Interstellar*
